@@ -1,4 +1,5 @@
 # Workshop Tasks
+"I am testing out how to commit things and how changing things might affect other parts."
 
 ## Pre-work
 
